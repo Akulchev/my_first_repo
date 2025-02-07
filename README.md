@@ -8,6 +8,7 @@ Text local
 
 Added text in a newbranch 
 
+<<<<<<< HEAD
 Creating a conflict
 
 Allowing conflict browser
