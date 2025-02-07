@@ -9,3 +9,5 @@ Text local
 Added text in a newbranch 
 
 Creating a conflict
+
+Allowing conflict browser
