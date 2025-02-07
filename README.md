@@ -3,3 +3,6 @@
 Added text
 
 Added from the browser
+
+Text local
+
