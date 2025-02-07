@@ -6,3 +6,4 @@ Added from the browser
 
 Text local
 
+Added text in a newbranch 
